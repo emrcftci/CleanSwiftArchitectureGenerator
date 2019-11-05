@@ -10,7 +10,7 @@ Find this repo useful?
 
 Find this repo useful? :heart: 
 
-Support it by joining [stargazers](https://https://github.com/emrcftci/CleanSwiftTemplate/stargazers) for this repository. :star: 
+Support it by joining [stargazers](https://github.com/emrcftci/CleanSwiftTemplate/stargazers) for this repository. :star: 
 
 And [follow](https://github.com/emrcftci) me for my next creations! 🤩
 
