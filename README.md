@@ -5,6 +5,15 @@ Purpose of the project
 
 :boom: This project will help you develop your project with Clean Swift Architecture. You can use this XCode Template for create Clean Swift Architecture files effortlessly.
 
+
+#### Add template to your XCode
+
+* You can add template to your XCode just double-tap on `XCode Directory` folder and you will redirect to your XCode's File Templates.
+
+* Then you can drag-and-drop Clean Swift Files folder to File Templates directory.
+
+
+
 Find this repo useful?
 ======================
 
