@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# -*- coding: utf-8 -*-
+
+cd $(dirname "$0")
+cp -R Clean\ Swift\ Files /Applications/Xcode.app/Contents/Developer/Library/Xcode/Templates/File\ Templates/
