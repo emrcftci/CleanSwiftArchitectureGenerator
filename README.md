@@ -15,9 +15,7 @@ Purpose of the project
 Add template to your XCode
 ======================
 
-* You can add template to your XCode just double-tap on `XCode Directory` folder and you will redirect to your XCode's File Templates.
-
-* Then you can drag-and-drop Clean Swift Files folder to File Templates directory.
+* You can add template to your XCode just double-click on `importTemplate` script.
 
 
 <p align="center">
